@@ -10,21 +10,11 @@
 
 ## what I've used
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
-    <!-- Backend -->
-    <p><strong>Language</strong></p>
     <div>
         <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white">   
         <img src="https://img.shields.io/badge/R-6DB33F?style=flat-square&logo=R&logoColor=white">   
         <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"> 
         <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> 
-    </div>
-    <!-- Database -->
-    <p><strong>Database</strong></p>
-    <div>
-        <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white">
         <img src="https://img.shields.io/badge/sqlite-003B57?style=flat-square&logo=sqlite&logoColor=white">
     </div>
-    <!-- Development Tools -->
-    
-    <!-- Others -->
 </div>
