@@ -27,9 +27,4 @@
     <!-- Development Tools -->
     
     <!-- Others -->
-    <p><strong>Others</strong></p>
-    <div>
-        <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=android studio&logoColor=white">
-
-</div><br>
 </div>
