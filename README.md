@@ -13,8 +13,8 @@
   <div>
         <img src="https://img.shields.io/badge/python-3776AB?style=plastic&logo=python&logoColor=white">   
         <img src="https://img.shields.io/badge/R-6DB33F?style=plastic&logo=R&logoColor=white">   
-        <img src="https://img.shields.io/badge/Java-007396?style=plastic&logo=Java&logoColor=white"> 
-        <img src="https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=C&logoColor=white"> 
+        <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=plastic&logo=Tensorflow&logoColor=white"> 
+        <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=plastic&logo=Pytorch&logoColor=white"> 
         <img src="https://img.shields.io/badge/javascript-F7DF1E?style=plastic&logo=javascript&logoColor=black"> 
       <img src="https://img.shields.io/badge/SQL-003B57?style=plastic&logo=SQL&logoColor=white"> 
     </div>
