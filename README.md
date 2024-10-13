@@ -19,3 +19,7 @@
       <img src="https://img.shields.io/badge/SQL-003B57?style=plastic&logo=SQL&logoColor=white"> 
     </div>
 </div>
+
+
+## Projects & Experiences
+https://github.com/jaieun-l/jaieun-l/blob/main/CV_Projects_20241013.pdf
